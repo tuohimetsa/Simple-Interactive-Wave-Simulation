@@ -1,4 +1,5 @@
-# Wave Simulation Tool
+
+# Simple Interactive Wave Simulation
 
 This project is an interactive wave simulation tool built using Python's `matplotlib` library. It allows users to visualize and manipulate the behavior of waves in a 2D grid, with support for customizable parameters, obstacles, wave sources, and amplitude tracking.
 
@@ -16,7 +17,7 @@ This project is an interactive wave simulation tool built using Python's `matplo
 - **Buttons:** Reset the simulation or toggle amplitude tracking graph visibility.
 
 ### 3. **Visualization**
-- Displays the wave grid using a colormap.
+- Displays the wave grid using a `seismic` colormap.
 - Tracks and graphs the amplitude history at a user-selected point.
 
 ### 4. **Mouse Interaction**
@@ -27,16 +28,18 @@ This project is an interactive wave simulation tool built using Python's `matplo
 ### 5. **Animation**
 - Uses `FuncAnimation` to update wave grid and amplitude history in real time.
 
+---
+
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/tuohimetsa/Simple-Interactive-Wave-Simulation
+    git clone https://github.com/tuohimetsa/Simple-Interactive-Wave-Simulation.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd wave-simulation-tool
+    cd Simple-Interactive-Wave-Simulation
     ```
 
 3. Install dependencies:
@@ -44,11 +47,13 @@ This project is an interactive wave simulation tool built using Python's `matplo
     pip install -r requirements.txt
     ```
 
+---
+
 ## Usage
 
 Run the script to launch the interactive wave simulation:
 ```bash
-python wave.py
+python wave_simulation.py
 ```
 
 ### Controls
@@ -75,12 +80,16 @@ python wave.py
 - **Obstacles:** Enables obstacle-drawing mode.
 - **Wave Source:** Enables wave source-drawing mode.
 
+---
+
 ## Customization
 
 You can customize various parameters by modifying the script:
 - **Grid Size:** Adjust the `grid_size` variable.
 - **History Duration:** Change `history_duration` to control how much amplitude history is displayed.
 - **Initial Parameters:** Modify `frequency`, `amplitude`, `velocity_speed`, and `attenuation_coefficient` for different initial settings.
+
+---
 
 ## Dependencies
 
@@ -92,6 +101,8 @@ Install these dependencies via pip:
 ```bash
 pip install matplotlib numpy
 ```
+
+---
 
 ## Contributing
 
@@ -113,12 +124,9 @@ Contributions are welcome! If you have ideas for features or improvements, feel 
    ```
 5. Open a pull request.
 
-## Acknowledgments
-
-- Inspired by the physics of wave equations.
-- Work in progress :)
-
 ---
 
 Feel free to reach out with questions or suggestions. Enjoy experimenting with wave simulations!
+
+---
 

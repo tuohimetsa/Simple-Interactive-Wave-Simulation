@@ -93,11 +93,6 @@ You can customize various parameters by modifying the script:
 - `matplotlib`
 - `numpy`
 
-Install these dependencies via pip:
-```bash
-pip install matplotlib numpy
-```
-
 ---
 
 ## Contributing

@@ -3,6 +3,9 @@
 
 This project is an interactive wave simulation tool built using Python's `matplotlib` library. It allows users to visualize and manipulate the behavior of waves in a 2D grid, with support for customizable parameters, obstacles, wave sources, and amplitude tracking.
 
+This simulation runs well on Spyder IDE.
+https://www.spyder-ide.org/
+
 ## Features
 
 ### 1. **Wave Simulation**
@@ -53,7 +56,7 @@ This project is an interactive wave simulation tool built using Python's `matplo
 
 Run the script to launch the interactive wave simulation:
 ```bash
-python wave_simulation.py
+python wave.py
 ```
 
 ### Controls
@@ -126,8 +129,8 @@ Contributions are welcome! If you have ideas for features or improvements, feel 
 
 ---
 
-This is a Work in progress. Also learning to use git properly.
-Feel free to reach out with questions or suggestions. Enjoy experimenting with wave simulations!
+This is a work in progress. Also learning to use git properly.
+Feel free to reach out with questions or suggestions.
 
 ---
 

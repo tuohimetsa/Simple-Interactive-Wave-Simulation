@@ -113,14 +113,10 @@ Contributions are welcome! If you have ideas for features or improvements, feel 
    ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 
 - Inspired by the physics of wave equations.
-- Built using the `matplotlib` library for visualization.
+- Work in progress :)
 
 ---
 

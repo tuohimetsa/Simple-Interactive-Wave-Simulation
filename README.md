@@ -52,13 +52,6 @@ https://www.spyder-ide.org/
 
 ---
 
-## Usage
-
-Run the script to launch the interactive wave simulation:
-```bash
-python wave.py
-```
-
 ### Controls
 
 #### Sliders

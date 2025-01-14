@@ -16,7 +16,7 @@ This project is an interactive wave simulation tool built using Python's `matplo
 - **Buttons:** Reset the simulation or toggle amplitude tracking graph visibility.
 
 ### 3. **Visualization**
-- Displays the wave grid using a `seismic` colormap.
+- Displays the wave grid using a colormap.
 - Tracks and graphs the amplitude history at a user-selected point.
 
 ### 4. **Mouse Interaction**
@@ -31,7 +31,7 @@ This project is an interactive wave simulation tool built using Python's `matplo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/wave-simulation-tool.git
+    git clone https://github.com/tuohimetsa/Simple-Interactive-Wave-Simulation
     ```
 
 2. Navigate to the project directory:
@@ -48,7 +48,7 @@ This project is an interactive wave simulation tool built using Python's `matplo
 
 Run the script to launch the interactive wave simulation:
 ```bash
-python wave_simulation.py
+python wave.py
 ```
 
 ### Controls

@@ -62,7 +62,7 @@ https://www.spyder-ide.org/
 
 #### Buttons
 - **Reset:** Resets the wave grid and clears all obstacles and wave sources.
-- **Graph Toggle:** Enables or disables the amplitude tracking graph.
+- **Graph Toggle:** Enables or disables the amplitude tracking graph. For FPS boost.
 
 #### Mouse
 - **Left-click:** Add obstacles or wave sources (depending on the selected mode).

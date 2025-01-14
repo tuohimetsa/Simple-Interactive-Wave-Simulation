@@ -126,6 +126,7 @@ Contributions are welcome! If you have ideas for features or improvements, feel 
 
 ---
 
+This is a Work in progress. Also learning to use git properly.
 Feel free to reach out with questions or suggestions. Enjoy experimenting with wave simulations!
 
 ---
